@@ -4,7 +4,7 @@
 
 using namespace std;
 
-const char alphanum[] = "0123456789!@#$%^&*abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
+const char alphanum[] = "0123456789!@#$%^&*{}[]()abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
 int string_length = sizeof(alphanum)-1;
 
 int main()
